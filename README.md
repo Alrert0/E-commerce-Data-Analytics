@@ -4,10 +4,6 @@
 This project analyzes e-commerce data using **PostgreSQL** and **SQL** queries.  
 The goal is to explore customer behavior, product categories, and order details through relational database queries.  
 
-## Tech Stack  
-- **PostgreSQL** – relational database  
-- **SQL** – data analysis queries  
-
 ##  Database Structure  
 Main tables:  
 1. `customers` – customer information  
@@ -31,7 +27,6 @@ Main tables:
 <img width="1381" height="909" alt="Снимок экрана 2025-09-21 175041" src="https://github.com/user-attachments/assets/4a7bf2fb-e88c-4ce6-96ee-9dfca08bfb2d" />
 <img width="811" height="929" alt="Снимок экрана 2025-09-21 180702" src="https://github.com/user-attachments/assets/16f9458f-0fee-4790-a3eb-59928b590ac1" />
 <img width="1111" height="633" alt="Снимок экрана 2025-09-21 180648" src="https://github.com/user-attachments/assets/f163ab2d-40fa-4fab-a315-e784902ab96d" />
-<img width="1381" height="924" alt="Снимок экрана 2025-09-21 180635" src="https://github.com/user-attachments/assets/ff6ae5f6-50be-4df1-8d8a-7a04a9379a94" />
 <img width="1386" height="903" alt="Снимок экрана 2025-09-21 180622" src="https://github.com/user-attachments/assets/ca1b1ec2-82b1-4390-bc87-c02e1666600a" />
 <img width="823" height="917" alt="image" src="https://github.com/user-attachments/assets/b7d96cf7-c9ef-4f24-9a53-2af6ec300dad" />
 <img width="595" height="391" alt="image" src="https://github.com/user-attachments/assets/2d22cc64-4733-4cdf-80aa-1363ba4a5233" />
