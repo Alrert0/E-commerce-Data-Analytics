@@ -1,4 +1,4 @@
-# E-Commerce Data Analysis  
+# Shoplytics
 
 ## Overview  
 This project analyzes e-commerce data using **PostgreSQL** and **SQL** queries.  
