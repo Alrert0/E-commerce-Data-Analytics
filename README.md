@@ -1,4 +1,4 @@
-<img width="595" height="391" alt="image" src="https://github.com/user-attachments/assets/3e36a247-8e80-4039-8ee2-5359254891d6" /># E-Commerce Data Analysis  
+# E-Commerce Data Analysis  
 
 ## Overview  
 This project analyzes e-commerce data using **PostgreSQL** and **SQL** queries.  
