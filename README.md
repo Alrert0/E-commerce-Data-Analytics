@@ -23,13 +23,6 @@ Main tables:
 ## ERD
   <img width="1013" height="906" alt="Снимок экрана 2025-09-21 164755" src="https://github.com/user-attachments/assets/d61e82be-440c-4316-bc36-298ab507e4fa" />
 
-## Screenshots 
-<img width="1381" height="909" alt="Снимок экрана 2025-09-21 175041" src="https://github.com/user-attachments/assets/4a7bf2fb-e88c-4ce6-96ee-9dfca08bfb2d" />
-<img width="811" height="929" alt="Снимок экрана 2025-09-21 180702" src="https://github.com/user-attachments/assets/16f9458f-0fee-4790-a3eb-59928b590ac1" />
-<img width="1111" height="633" alt="Снимок экрана 2025-09-21 180648" src="https://github.com/user-attachments/assets/f163ab2d-40fa-4fab-a315-e784902ab96d" />
-<img width="1386" height="903" alt="Снимок экрана 2025-09-21 180622" src="https://github.com/user-attachments/assets/ca1b1ec2-82b1-4390-bc87-c02e1666600a" />
-<img width="823" height="917" alt="image" src="https://github.com/user-attachments/assets/b7d96cf7-c9ef-4f24-9a53-2af6ec300dad" />
-<img width="595" height="391" alt="image" src="https://github.com/user-attachments/assets/2d22cc64-4733-4cdf-80aa-1363ba4a5233" />
 
 ## Tools & Resources  
 
